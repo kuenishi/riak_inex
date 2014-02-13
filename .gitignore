@@ -1,0 +1,8 @@
+inex
+deps
+*~
+.eunit
+*.plt
+*.o
+ebin/*.beam
+ebin/*.app

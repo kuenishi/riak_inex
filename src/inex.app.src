@@ -1,0 +1,12 @@
+{application, inex,
+ [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {mod, { inex_app, []}},
+  {env, []}
+ ]}.
