@@ -57,6 +57,8 @@ This will take proportional to number of lines.
 - schema and 2i configuration
 - bulk import for JSON-per-line file
 - concurrency configuration (currently 4 hardcoded)
+- *export*
+- 2.0 bucket types
 
 # Relasenotes 0.0.1
 
